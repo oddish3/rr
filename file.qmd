@@ -1,0 +1,8 @@
+```{r}
+library(tidyverse)
+library(palmerpenguins)
+```
+
+```{r}
+penguins
+```
